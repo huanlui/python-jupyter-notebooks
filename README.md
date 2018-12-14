@@ -1,4 +1,4 @@
-# Linux shell Jupyter Notebooks
+# Python Jupyter Notebooks
 A set of Python exercises explained by using Jupyter Notebooks. They are based on exercises proposed at 12th Edition of Data Science Master by [KSchool](https://kschool.com/) .
 
 The notebooks (extension .ipynb) can be opened directly from Github. Please, it you experiment some problem opening it, try doing it from an incognito window.
